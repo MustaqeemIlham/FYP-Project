@@ -17,18 +17,18 @@ Environmental Data
 - Nitrogen (N)
 - Phosphorus (P)
 - Potassium (K)
--Soil pH
--Temperature
--Humidity
--Rainfall
--Crop label
+- Soil pH
+- Temperature
+- Humidity
+- Rainfall
+- Crop label
 
 Market Price Data
--Week
--Month
--Year
--Crop type
--Average market price (RM/kg)
+- Week
+- Month
+- Year
+- Crop type
+- Average market price (RM/kg).
 
 Sources:
 Kaggle dataset (environmental data)
@@ -41,7 +41,7 @@ Algorithm Used: Random Forest
 
 Model Process:
 Rule-Based Filtering
-Filters crops by environmental suitability (pH, rainfall, NPK, etc.)
+Filters crops by environmental suitability (pH, rainfall, NPK, etc.).
 Random Forest Prediction:
 Predicts profitability using market price data.
 Final Recommendation:
