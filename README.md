@@ -37,7 +37,7 @@ OpenWeatherMap API
 
 
 Machine Learning Model
-Algorithm Used: Random Forest
+Algorithm Used: Random Forest Regression
 
 Model Process:
 Rule-Based Filtering
